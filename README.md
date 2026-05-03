@@ -1,6 +1,6 @@
 Senior UNIX DR Systems Administrator with 7 years across AIX and Linux estates — disaster recovery, backups, and vulnerability remediation.
 
-Multiple IBM Platinum rated business partners.
+Worked across multiple IBM Platinum rated business partners.
 
 |![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=triippiing&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=triippiing&theme=github_dark)|
 |-----|------|
