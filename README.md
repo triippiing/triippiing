@@ -1,4 +1,4 @@
-Senior UNIX DR Systems Administrator with 7 years across AIX and Linux estates — disaster recovery, backups, and vulnerability remediation.
+Senior UNIX DR Systems Administrator with 7 years across AIX and Linux estates - disaster recovery, backups, and vulnerability remediation.
 
 Worked across multiple IBM Platinum rated business partners.
 
