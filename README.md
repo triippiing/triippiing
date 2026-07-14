@@ -7,8 +7,8 @@ Worked across multiple IBM Platinum rated business partners.
 
 # Recent Projects
 
-1. [Wiki](https://github.com/triippiing/Wiki) — published at [triippiing.github.io/Wiki](https://triippiing.github.io/Wiki/)
-   - A growing library of self-contained HTML runbooks for AIX and Linux operations: TSM / Veeam backup, FalconStor VTL hardening, LVM, NIM, security remediation. No framework, no build step — every runbook opens directly in a browser.
+1. [Wiki](https://github.com/triippiing/Wiki), published at [triippiing.github.io/Wiki](https://triippiing.github.io/Wiki/)
+   - A growing library of HTML runbooks for AIX and Linux operations: TSM / Veeam / Cohesity backup, FalconStor VTL hardening, LVM, NIM, security remediation. No framework and no generator, just hand-written HTML on a shared design library, with a searchable index built from the page metadata.
 2. [automation-scripts](https://github.com/triippiing/automation-scripts)
    - Standalone AIX (ksh) and Linux (bash) scripts written for real engagements: TSM image-restore prep, RMAN/TDPO schedule generation, NIM disaster recovery, RHEL patching, performance tuning, and system info gathering.
 
